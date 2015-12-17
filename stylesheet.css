@@ -44,11 +44,12 @@ h3{
 	position: absolute;
 	top:135px;
 	left:350px;
+	font-family: Verdana;
 }
 table{
 	padding-left:340px;
-	padding-top:30px;
+	padding-top:25px;
 	font-family: Verdana;
 	font-size: 30px;
-	
 }
+tr:hover{background-color:#0085ca}
