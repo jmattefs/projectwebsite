@@ -16,7 +16,7 @@ ul{
 	margin: 0;
 	padding: 0;
 	background-color: #566787;
-	background-image: url("http://www.transparenttextures.com/patterns/brushed-alum.png");
+	background-image: url("diamond-upholstery.png");
 
 	border: 1px solid #555;
 	position: fixed;
@@ -25,24 +25,27 @@ ul{
 	width:300px;
 	
 	
+	
 }
 li a{
 	display: block;
-	width: 150px
+	width: 300px;
 	text-align: center;
 }
+
 li{
 	text-align: center;
 	width: 300px;
+	border-bottom: 1px solid black
 	
 }
 body{
 	background-color: #234887;
-	background-image: url("http://www.transparenttextures.com/patterns/sos.png");
+	background-image: url("diamond-upholstery.png");
 }
 h3{
 	position: absolute;
-	top:135px;
+	top:190px;
 	left:350px;
 	font-family: Verdana;
 }
@@ -52,4 +55,13 @@ table{
 	font-family: Verdana;
 	font-size: 30px;
 }
-tr:hover{background-color:#0085ca}
+tr:hover{background-color:#7BAFD4}
+
+img{
+	position:relative;
+	top:37px
+}
+li:hover{
+	background-color:white;
+}
+
