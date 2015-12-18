@@ -37,7 +37,7 @@ li a{
 li{
 	text-align: center;
 	width: 290px;
-	border-bottom: 2px solid white
+	border-bottom: 2px solid black
 	
 }
 body{
@@ -66,4 +66,9 @@ img{
 li:hover{
 	background-color:white;
 }
-
+#pic{
+	position:absolute;
+	left: 375px;
+	top: 240px;
+	
+}
